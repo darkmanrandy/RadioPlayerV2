@@ -49,7 +49,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](htt
 ## Run On VPS (The Hard Way)
 
 ```sh
-$ git clone https://github.com/darkmanrandy/RadioPlayerV2
+$ git clone https://github.com/AsmSafone/RadioPlayerV2
 $ cd RadioPlayerV2
 $ sudo apt-get install ffmpeg
 $ pip3 install -U pip
