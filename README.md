@@ -16,7 +16,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](htt
 
 ## Deploy to Heroku (The Easy Way)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkmanrandy/RadioPlayerV2)
 
 ## Heroku Vars:
 1. `API_ID` : Get From my.telegram.org
@@ -49,7 +49,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](htt
 ## Run On VPS (The Hard Way)
 
 ```sh
-$ git clone https://github.com/AsmSafone/RadioPlayerV2
+$ git clone https://github.com/darkmanrandy/RadioPlayerV2
 $ cd RadioPlayerV2
 $ sudo apt-get install ffmpeg
 $ pip3 install -U pip
@@ -64,7 +64,7 @@ $ python3 main.py
 ## License
 ```sh
 RadioPlayerV2, Telegram Voice Chat Userbot
-Copyright (C) 2021  Asm Safone
+Copyright (C) 2021  TamilVenthan Mec
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -81,7 +81,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
 ## Credits
 
-- [Asm Safone](https://github.com/AsmSafone) [Dev]
-- [Dash Eclipse](https://github.com/dashezup) [For tgvc-userbot]
-- [Il'ya](https://github.com/MarshalX) [For tgcalls]
-- [Subin](https://github.com/subinps) [For bot support]
+- [TamilVenthan Mec](https://github.com/darkmanrandy) [fork]
